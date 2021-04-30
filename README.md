@@ -4,7 +4,7 @@
 - [x] Wrap [p5.js](https://p5js.org/) web apps as __dekstop apps__ using [elctron.js](https://www.electronjs.org/docs/tutorial/quick-start). [ borrowed the base and edited a bit from [p5js-electron-templates](https://github.com/garciadelcastillo/p5js-electron-templates) ] 
 - [x] Check latest [web-serial api](https://web.dev/serial/) support in the then desktop web app.
 - [x] Check latest [web-ble api](https://web.dev/bluetooth/) support in the then desktop web app. [ we are also using another library [p5.ble.js](https://itpnyu.github.io/p5ble-website/) for this]
-- [x] The idea is to start start developing fast without starting from scratch.
+- [x] The idea is to start developing fast without starting from scratch.
 
 
 __Notes:__ 
