@@ -1,0 +1,19 @@
+{
+  "name": "my_first_electron_app",
+  "version": "1.0.0",
+  "description": "electron wrapper tester",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "build --dir",
+    "postinstall": "install-app-deps",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Datta",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.5",
+    "electron-builder": "^22.10.5",
+    "electron-reload": "^1.5.0"
+  }
+}
